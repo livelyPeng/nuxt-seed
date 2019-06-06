@@ -1,4 +1,4 @@
-# nuxtDemo
+# nuxt-seed
 
 > My superb Nuxt.js project
 
